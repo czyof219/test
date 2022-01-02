@@ -1,0 +1,32 @@
+[33mcommit d1bdb0bb5da3cd6dee0e062d68b7e768d3dd34f2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: czyof219 <czyof219@126.com>
+Date:   Sun Jan 2 21:49:09 2022 +0800
+
+    this is my first commit
+
+[33mcommit 06a0381a54e6d9842eb4b7f63d6033ff99eebde3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 6b1d180 afaa374
+Author: czyof219 <96913346+czyof219@users.noreply.github.com>
+Date:   Fri Dec 31 21:33:55 2021 +0800
+
+    Merge pull request #1 from czyof219/readme-edits
+    
+    第1次的pull request
+
+[33mcommit afaa3746af8a925762d7a0745e3e12ebc6dfe4f9[m
+Author: czyof219 <96913346+czyof219@users.noreply.github.com>
+Date:   Fri Dec 31 21:23:53 2021 +0800
+
+    增加了一些说明
+
+[33mcommit 6b1d180af2b1225059c6a702bbd13272f0cd9811[m
+Author: czyof219 <96913346+czyof219@users.noreply.github.com>
+Date:   Fri Dec 31 21:19:11 2021 +0800
+
+    function main
+
+[33mcommit 3e87bb3f2494871ed9c90a51766de98bc89b56fc[m
+Author: czyof219 <96913346+czyof219@users.noreply.github.com>
+Date:   Fri Dec 31 21:10:14 2021 +0800
+
+    Initial commit

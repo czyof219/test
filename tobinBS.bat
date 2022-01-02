@@ -1,0 +1,1 @@
+C:\Keil_v5\ARM\ARMCC\bin\fromelf.exe --bin --output ./bin/bs_08080000.bin ./Objects/boot2_L496RG.axf 
